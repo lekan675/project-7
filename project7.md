@@ -225,8 +225,8 @@ This approach will make our Web Servers `stateless`, means we will be able to ad
     ![](./images/Create%20in%20MySQL%20a%20new%20admin%20user%20by%20running%20the%20following.jpg)
 
 
-12. Open the website in your browser http:/<Web-Server-Public-IP-Address-or-Public-DNS-Name>/index.php and make sure you can login into the website with myuser user.
+12. Open the website in your browser http://<Web-Server-Public-IP-Address-or-Public-DNS-Name>/index.php and make sure you can login into the website with myuser user.
 
     ![](./images/Open%20the%20website%20in%20your%20browser.jpg)
-
+    
     ![](./images/logged%20in%20to%20the%20website.jpg)
